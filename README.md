@@ -1,6 +1,6 @@
 ###  ▫ Opa, tudo bem? Me chamo João Gomes 🦅
 
-- 📚 Atualemte estou estudando programação pelo curso ProgramadorBR
+- 📚 Atualmente estou estudando programação pelo curso ProgramadorBR
   - Aprendendo HTML, CSS e JS  
 
 <div align="center">

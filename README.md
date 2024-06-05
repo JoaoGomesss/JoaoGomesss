@@ -1,7 +1,6 @@
 ###  ▫ Opa, tudo bem? Me chamo João Gomes 🦅
 
-- 📚 Atualmente estou estudando programação pelo curso ProgramadorBR
-  - Aprendendo HTML, CSS e JS  
+- 📚 Desenvolvedor FullStack 
 
 <div align="center">
   <a href="https://github.com/JoaoGomesss">

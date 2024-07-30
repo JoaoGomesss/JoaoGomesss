@@ -1,6 +1,6 @@
 ###  ▫ Opa, tudo bem? Me chamo João Gomes 🦅
 
-- 📚 Desenvolvedor FullStack 
+- 📚 Desenvolvedor Frontend 
 
 <div align="center">
   <a href="https://github.com/JoaoGomesss">

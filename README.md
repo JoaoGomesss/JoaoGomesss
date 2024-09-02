@@ -38,4 +38,4 @@
 
 ![João Gomes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaogomesss&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogomesssS&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogomesss&layout=compact)
